@@ -1,0 +1,24 @@
+{
+  "name": "webpack-pwa-icon-plugin",
+  "version": "0.0.1",
+  "description": "This webpack plugin purpose is to create images for all important platform icons out of one icon file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "icons",
+    "pwa"
+  ],
+  "author": "Daniel Trojer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutefiRe/webpack-pwa-icons-plugin.git"
+  },
+  "devDependencies": {
+    "sharp": "^0.20.0"
+  }
+}
