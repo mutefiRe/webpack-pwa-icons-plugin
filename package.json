@@ -1,5 +1,5 @@
 {
-  "name": "webpack-pwa-icon-plugin",
+  "name": "webpack-pwa-icons-plugin",
   "version": "0.0.1",
   "description": "This webpack plugin purpose is to create images for all important platform icons out of one icon file",
   "main": "index.js",
