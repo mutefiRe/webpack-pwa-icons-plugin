@@ -1,6 +1,6 @@
 {
   "name": "webpack-pwa-icons-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This webpack plugin purpose is to create images for all important platform icons out of one icon file",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/mutefiRe/webpack-pwa-icons-plugin.git"
   },
-  "devDependencies": {
+  "dependencies": {
     "sharp": "^0.20.0"
   },
   "homepage": "https://github.com/mutefiRe/webpack-pwa-icons-plugin",
